@@ -1,17 +1,1 @@
-<svg
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  xmlns="http://www.w3.org/2000/svg"
-  fill="none"
-  stroke="currentColor"
-  stroke-width="2"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path d="M5 9v7" />
-  <path d="M5.25 8.5a3.25 3.25 0 1 0 0-6.5 3.25 3.25 0 0 0 0 6.5z" />
-  <path d="M5 22a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
-  <path d="M19 22a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
-  <path d="M5.13 9a4.058 4.058 0 0 0 3.94 3.04l3.43-.01c.84 0 1.63.17 2.36.47" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-hierarchy"><path d="M5 9v7"></path><path d="M5.25 8.5a3.25 3.25 0 1 0 0-6.5 3.25 3.25 0 0 0 0 6.5z"></path><path d="M5 22a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"></path><path d="M19 22a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"></path><path d="M5.13 9a4.058 4.058 0 0 0 3.94 3.04l3.43-.01a5.989 5.989 0 0 1 5.67 4.01"></path></svg>
