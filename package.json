@@ -1,5 +1,5 @@
 {
-  "name": "feather-icons",
+  "name": "leaderos-dashboard-icons",
   "version": "0.0.0-development",
   "description": "Simply beautiful open source icons",
   "main": "dist/feather.js",
@@ -60,8 +60,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/feathericons/feather.git"
+    "url": "https://github.com/leaderos-net/dashboard-icons.git"
   },
-  "author": "Cole Bemis <cole@colebemis.com> (http://colebemis.com)",
+  "author": "LeaderOS <contact@leaderos.net> (https://leaderos.net)",
   "license": "MIT"
 }
