@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-grid-eraser"><path d="M22 11V9c0-5-2-7-7-7H9C4 2 2 4 2 9v6c0 5 2 7 7 7h1"></path><path d="M2.03 8.5H22"></path><path d="M2.03 15.5H12"></path><path d="M8.51 21.99V2.01"></path><path d="M15.51 11.99V2.01"></path><path d="M18.8 19.7l-1.9 1.9c-.52.52-1.38.52-1.91 0l-1.58-1.59c-.52-.52-.52-1.38 0-1.91l1.9-1.89 3.49 3.49z"></path><path d="M21.61 16.9l-2.81 2.81-3.5-3.5 2.81-2.82c.52-.52 1.39-.52 1.91 0l1.58 1.59c.53.53.53 1.4.01 1.92z"></path></svg>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  class="feather feather-grid-eraser"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M22 11V9c0-5-2-7-7-7H9C4 2 2 4 2 9v6c0 5 2 7 7 7h1" />
+  <path d="M2.03 8.5H22" />
+  <path d="M2.03 15.5H12" />
+  <path d="M8.51 21.99V2.01" />
+  <path d="M15.51 11.99V2.01" />
+  <path d="M18.8 19.7l-1.9 1.9c-.52.52-1.38.52-1.91 0l-1.58-1.59c-.52-.52-.52-1.38 0-1.91l1.9-1.89 3.49 3.49z" />
+  <path d="M21.61 16.9l-2.81 2.81-3.5-3.5 2.81-2.82c.52-.52 1.39-.52 1.91 0l1.58 1.59c.53.53.53 1.4.01 1.92z" />
+</svg>

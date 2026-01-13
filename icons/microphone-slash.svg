@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-microphone-slash"><path d="M16 6.3V6c0-2.21-1.79-4-4-4S8 3.79 8 6v5"></path><path d="M9.04 14.19c.73.81 1.79 1.31 2.96 1.31 2.21 0 4-1.79 4-4V11"></path><path d="M6.78 16.95a7.656 7.656 0 0 0 12.87-5.6v-1.7"></path><path d="M4.35 9.65v1.7c0 1.06.21 2.06.6 2.98"></path><path d="M20.07 2.84L3.93 18.99"></path><path d="M11 3v3"></path><path d="M12 19v3"></path></svg>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  class="feather feather-microphone-slash"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M16 6.3V6c0-2.21-1.79-4-4-4S8 3.79 8 6v5" />
+  <path d="M9.04 14.19c.73.81 1.79 1.31 2.96 1.31 2.21 0 4-1.79 4-4V11" />
+  <path d="M6.78 16.95a7.656 7.656 0 0 0 12.87-5.6v-1.7" />
+  <path d="M4.35 9.65v1.7c0 1.06.21 2.06.6 2.98" />
+  <path d="M20.07 2.84L3.93 18.99" />
+  <path d="M11 3v3" />
+  <path d="M12 19v3" />
+</svg>

@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-setting-4"><path d="M22 6.5h-6"></path><path d="M6 6.5H2"></path><path d="M10 10a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7z"></path><path d="M22 17.5h-4"></path><path d="M8 17.5H2"></path><path d="M14 21a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7z"></path></svg>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  class="feather feather-setting-4"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M22 6.5h-6" />
+  <path d="M6 6.5H2" />
+  <path d="M10 10a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7z" />
+  <path d="M22 17.5h-4" />
+  <path d="M8 17.5H2" />
+  <path d="M14 21a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7z" />
+</svg>
