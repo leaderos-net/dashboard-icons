@@ -14,7 +14,8 @@
     "test": "jest --watch",
     "test:coverage": "jest --coverage",
     "cm": "git-cz",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "release": "npm version patch && npm publish && git push --follow-tags"
   },
   "config": {
     "commitizen": {
